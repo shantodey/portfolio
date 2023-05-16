@@ -1,0 +1,295 @@
+
+@media (min-width: 320px) and (max-width: 575.98px) { 
+
+    .manu_inr ul{
+        display: grid;
+        grid-gap: 10px;
+    }
+/* profile start */
+
+    #profile {
+        padding-top: 65px;
+      
+    }
+    .prof_head h1 br{
+        display: none;
+    }
+    .prof_head p {
+        font-size: 14px;
+       
+    }
+    /* profile text end */
+
+    .pro_last h2 {
+        padding-top: 30px;
+        text-align: center;
+    }
+/* profile end*/
+.get_head_text h2{
+    padding-bottom: 30px;
+}
+/* about start*/
+#about {
+	padding-top: 70px;
+
+}
+.abt_info_one h2 {
+	text-align: center ;
+}
+.proges_bottom{
+    margin-top: 0rem !important;
+}
+/* about end*/
+
+
+
+/* resume */
+
+#resume {
+	padding-top: 70px;
+}
+
+.resume_head{
+    padding-bottom: 30px;
+}
+
+.card_main {
+	margin: 15px 0;
+}
+
+/* resume end */
+
+    /* projects */
+
+    #projects {
+        padding-top: 0px;
+    }
+
+    .colorful-tab-menu-item {
+        width: 100%;
+    }
+    .Ecommerce {
+        margin-bottom: 20px;
+    }
+    .counters {
+        padding: 20px 0;
+    }
+    .counter_main {
+        margin-bottom: 18px;
+    }
+    /* projects end */
+/* news */
+#news {
+	padding-bottom: 0;
+}
+/* news end */
+/* contact */
+.get_inr {
+	padding: 8px;
+}
+
+.take_info {
+	flex-shrink: 0;
+	width: 100%;
+	max-width: 100%;
+	padding-right: calc(var(--bs-gutter-x) * .5);
+	padding-left: calc(var(--bs-gutter-x) * .5);
+	margin-top: var(--bs-gutter-y);
+	margin-top: 48px;
+}
+
+.get_anim_line {
+
+	width: 158px;
+	background-color: #29387336;
+	top: -18px;
+	
+}
+
+.get_anim_line_two {
+	
+	width: 159px;
+	background-color: #d52b7524;
+	top: 44px;
+	
+}
+
+
+/* contact end */
+
+/* bottom */
+#bottom {
+	padding: 27px;
+
+}
+.bottom_text p {
+	text-align: center;
+}
+.bottom_text {
+	margin: 0 auto;
+	text-align: left !important;
+}
+.bottom_icon ul {
+    text-align: center;
+}
+}
+
+/* bottom end  */
+
+
+
+
+
+
+
+
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+/* profile start */
+    #profile {
+    padding-top: 0;
+  
+    }
+    .prof_head p {
+        text-align: left;
+        padding-left: 0;
+        padding-top:0 ;
+    }
+
+    .typed_wrap {
+        top: 250px;
+        left: 35px;
+        padding-right: 0;
+    }
+    .pro_last h2 {
+        padding-top: 30px;
+        text-align: center;
+    }
+   
+/* profile end */
+/* project start */
+    .abt_progess {
+        padding-top: 50px;
+    }
+    .proges_one{
+        width: 50%;
+    }
+    .proges_bottom {
+        margin-top: 1rem !important;
+    }
+/* project end */
+/* resume */
+
+    #resume {
+        padding-top: 90px;
+        padding-bottom: 100px;
+    }
+
+    .resume_main h3 span {
+        padding-left: 57px;
+
+    }
+
+    .resume_main {
+
+        margin: 45px 0;
+    }
+
+    .card_main {
+        margin: 20px 0;
+    }
+
+    .card_title_back {
+
+        padding-left: 58px;
+        padding-right: 43px;
+    }
+/* resume end */
+    /* projects */
+
+    #projects {
+        padding-top: 5px;
+    }
+
+    .colorful-tab-menu-item {
+
+        width: 100%;
+    }
+
+    .Ecommerce .over_lay {
+
+        top: 0;
+        left: 5px;
+        
+    }
+    .Ecommerce {
+        
+        margin-bottom: 20px;
+    }
+
+    .counters {
+        padding: 20px 0;
+    }
+
+    .counter_main {
+        margin-bottom: 18px;
+        width: 50%;    }
+
+    .card__front, .card__back {
+        top: -10px;
+        
+    }
+    /* projects end */
+
+    /*  contact */ 
+   
+    #get {
+        padding: 14px 0;
+    }
+
+    .take_info {
+        flex-shrink: 0;
+        width: 100%;
+        max-width: 100%;
+        padding-right: calc(var(--bs-gutter-x) * .5);
+        padding-left: calc(var(--bs-gutter-x) * .5);
+        margin-top: var(--bs-gutter-y);
+        margin-top: 48px;
+    }
+    
+    .get_anim_line {
+    
+        width: 158px;
+        background-color: #29387336;
+        top: -18px;
+        
+    }
+    
+    .get_anim_line_two {
+        
+        width: 159px;
+        background-color: #d52b7524;
+        top: 44px;
+        
+    }
+    /* contact end */
+    /* bottom */
+    #bottom {
+        padding: 27px;
+
+    }
+    .bottom_text p {
+
+        text-align: center;
+    }
+    .bottom_text {
+        margin: 0 auto;
+        text-align: left !important;
+    }
+    .bottom_icon ul {
+        text-align: center;
+    }
+
+
+/* bottom end  */
+}
