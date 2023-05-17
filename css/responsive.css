@@ -113,7 +113,9 @@
 	top: 44px;
 	
 }
-
+ .get_info{
+      	text-align: center;
+ }
 
 /* contact end */
 
@@ -271,6 +273,9 @@
         background-color: #d52b7524;
         top: 44px;
         
+    }
+    .get_info{
+        text-align: center;
     }
     /* contact end */
     /* bottom */
