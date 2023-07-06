@@ -132,7 +132,8 @@
 	text-align: left !important;
 }
 .bottom_icon ul {
-    text-align: center;
+   	 text-align: center;
+	padding: 0;
 }
 }
 
